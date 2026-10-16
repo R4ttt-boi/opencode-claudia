@@ -1,0 +1,10 @@
+{
+  "name": "claude-compat-opencode",
+  "version": "0.1.0",
+  "description": "OpenCode extension layer for Claude Code compatibility",
+  "main": ".opencode/plugins/claude-bridge.ts",
+  "devDependencies": {
+    "@opencode/plugin": "latest",
+    "typescript": "^5.9.3"
+  }
+}

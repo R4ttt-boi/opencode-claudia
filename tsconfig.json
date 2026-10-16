@@ -1,0 +1,20 @@
+{
+  "compilerOptions": {
+    "target": "ES2020",
+    "module": "Node16",
+    "strict": true,
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "forceConsistentCasingInFileNames": true,
+    "resolveJsonModule": true,
+    "moduleResolution": "node16"
+  },
+  "include": [
+    ".opencode/**/*.ts",
+    "**/*.ts"
+  ],
+  "exclude": [
+    "node_modules",
+    ".opencode/node_modules"
+  ]
+}

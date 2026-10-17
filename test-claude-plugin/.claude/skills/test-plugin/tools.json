@@ -1,0 +1,14 @@
+[
+  {
+    "name": "hello_world",
+    "description": "Says hello to the world",
+    "parameters": [
+      {"name": "message", "type": "string", "description": "Message to include"}
+    ]
+  },
+  {
+    "name": "get_system_info",
+    "description": "Returns system information",
+    "parameters": []
+  }
+]

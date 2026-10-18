@@ -12,7 +12,7 @@
   "include": [
     ".opencode/**/*.ts",
     "**/*.ts"
-  ],
+, ".opencode/plugins/claude-bridge.ts.bak"  ],
   "exclude": [
     "node_modules",
     ".opencode/node_modules"
